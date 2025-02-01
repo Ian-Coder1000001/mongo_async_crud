@@ -1,0 +1,109 @@
+20250130	20:10:22	251c31eb-e11b-497d-89cb-61966dfa82f3	/data/data.json	GET
+20250130	20:10:24	6f00399e-11ea-4076-80f5-69bab42555ea	/data/data.json	GET
+20250130	20:10:24	99084677-eb9b-4e56-b981-7e93d9726383	/data/data.json	GET
+20250130	20:10:24	946d7371-ccb5-4be5-9247-7a0326771e7f	/data/data.json	GET
+20250130	20:12:06	f7733cde-27ea-43d8-84d1-ec492ffb90fd	/data/data.json	GET
+20250130	20:12:06	bb554d2c-2288-4b0d-94f8-c4236453bfc7	/favicon.ico	GET
+20250130	20:12:25	faf8ed0e-0381-4b97-a69c-d00eb5d2892b	/ne-page	GET
+20250130	20:12:25	ad851d73-5f29-4607-8e28-3a62981d3976	/css/style.css	GET
+20250130	20:12:34	f38581b7-7464-4b67-ac6f-2c43b7b0f3da	/new-page	GET
+20250130	20:12:34	7f4ef7d8-4aab-4292-8a1c-52a25f0462ae	/css/style.css	GET
+20250130	20:12:34	6e5df4cd-addc-4ae4-a688-2158606c7199	/img/img1.jpg	GET
+20250131	16:56:06	0cd3af24-b7c8-472f-80b1-976a996bd932	${req.method}	${req.headers.origin}	${req.url}
+20250131	16:56:06	2a62a030-b0c1-44a1-93f0-550df2d8ea37	${req.method}	${req.headers.origin}	${req.url}
+20250131	16:56:32	8a44c370-bd28-417c-949f-151a0199eaac	${req.method}	${req.headers.origin}	${req.url}
+20250131	16:56:32	9a7a214b-6b94-4a99-8ab5-44aba7639d56	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:14:00	a8fdda59-0a77-4a53-905c-313aba0ffe6d	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:14:01	3cea52cb-0bbb-4e85-a57e-5bc4c6f96987	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:26:27	62646f8a-697b-496e-ba0a-9ec2a9f8566f	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:27:12	a20d5912-3c5b-4008-b880-80f35ea34f84	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:27:12	4f92d919-7307-453a-89d5-85d1a9c03508	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:28:16	f861f46f-9b7f-4d6d-a99f-ed7c4ad9a530	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:28:16	57438bdc-4c14-4aed-9016-e7a088d29be0	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:32:11	d955cde2-73d5-4cbf-88fa-f1bef04c66e6	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:33:35	6245d1b1-6f55-4939-970d-32a2ec0cd638	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:33:35	7658cb11-d45b-4b16-8503-f030ec1cba31	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:42:20	2a247ebf-7916-41fa-86fc-393b3b0f735e	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:43:48	e88efe00-a776-429e-84d7-296709306ade	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:43:48	5bcb3bbb-cb8a-4a6e-9fe4-0449872f9d1f	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:45:47	fc40fa4c-5f05-40b1-b4b8-8b79dca1b72e	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:45:47	e2acfc8f-2fda-4bdd-9087-7692abab56cc	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:45:53	686632ce-910b-4c39-beec-1f7d24fe8f57	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:45:53	5c89565d-6db9-468d-92c8-e470424d1002	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:53:16	1ec70ada-0d56-4840-abb9-721df375e934	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:53:16	dd118611-ae94-4b7b-8cad-3352f75bf633	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:53:26	17fd84fa-544c-4e01-8aba-97dcb674297c	${req.method}	${req.headers.origin}	${req.url}
+20250131	18:53:26	c79ebbae-d5a6-42db-9db2-df45fe90d0e5	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:47:20	63b6ebee-f51f-4f1e-886c-01191e82407c	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:47:20	7eaff0b1-d41f-4f28-b739-fb99aa634128	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:47:31	ac1edf64-d5d5-4060-955c-ca37ff9b7fd3	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:47:47	650d0ef7-0dda-42ce-b735-e696493c8cd1	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:47:55	096a68d9-4432-49b2-850e-49e2539cc0f2	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:47:55	5df36d46-eabf-4c33-acf8-7d5af090000b	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:50:16	1d99521d-9c43-4c2d-ae7e-d84957856ecc	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:50:16	5b406000-377b-4480-aede-9a95980e5a12	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:58:25	7267aba5-851d-4549-a170-314f1a0f5c4f	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:58:25	df313d74-d456-4124-9342-48b48308310c	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:58:30	cbc5948c-3937-487d-a875-0777db0c546e	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:58:30	75309f6a-c23e-4dd1-bf60-2fb6902ba726	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:58:46	d6732d52-5665-474e-8ee0-682a60f65ba9	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:58:46	5815e1ce-2d7a-470b-9d9f-8830a763ffc2	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:58:46	67c80849-7c29-45d0-848d-da9164b98cf3	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:59:04	81360e8a-7243-4259-ad05-08e50349d6d7	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:59:04	01ea9998-7f44-44c7-9204-e96d77314ba0	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:59:04	635e618d-33ac-40e4-9a4c-d554aaf3728d	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:59:10	772d9e06-df8e-4cf5-a34c-105f2e21d500	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:59:10	ced47a10-de75-4e07-8cb8-d21fcadf5102	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:59:10	04a16039-ea75-4396-891a-bf7bd79a9d6a	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:59:14	581c8776-f20c-45bc-afec-ec8c56ede9c1	${req.method}	${req.headers.origin}	${req.url}
+20250131	20:59:14	d36ef952-e33d-43ec-a61d-1a4d3e222f57	${req.method}	${req.headers.origin}	${req.url}
+20250131	21:23:13	3f02d604-bcaf-4045-9fd3-b5e7a63f2571	${req.method}	${req.headers.origin}	${req.url}
+20250131	21:23:13	3e99553c-326e-4ebc-bb4f-3dc9067f273b	${req.method}	${req.headers.origin}	${req.url}
+20250131	21:23:18	96dc8191-83b4-45b0-8444-eccd550fd3f1	${req.method}	${req.headers.origin}	${req.url}
+20250131	21:23:18	8d500dbe-639a-4fcb-b976-3bcb291bd2cb	${req.method}	${req.headers.origin}	${req.url}
+20250131	21:24:18	01a90a15-77c8-477f-86ef-f47c4686c2dc	${req.method}	${req.headers.origin}	${req.url}
+20250131	21:25:07	b97c4af0-2244-43e4-ab31-15790e415ed8	${req.method}	${req.headers.origin}	${req.url}
+20250131	21:25:56	7c7843b1-d7ef-48ba-a731-6cbf17e716cf	${req.method}	${req.headers.origin}	${req.url}
+20250131	21:27:26	dae978ea-0af4-419b-939d-ee32c24f86e5	${req.method}	${req.headers.origin}	${req.url}
+20250131	21:28:08	745fe8a3-0752-4e9d-9a8b-1760b28a0a3c	${req.method}	${req.headers.origin}	${req.url}
+20250131	21:28:35	a2234d42-07db-44b8-a08e-e10410bab195	${req.method}	${req.headers.origin}	${req.url}
+20250131	22:07:51	5f180711-92b5-4c0e-9379-1064555bd7ac	${req.method}	${req.headers.origin}	${req.url}
+20250131	22:14:30	b8c241fc-498d-4f7f-9833-757255d4442b	GET	undefined	/employees
+20250131	22:15:49	ff261765-f724-48fd-85ac-c8dcec780862	GET	undefined	/employees
+20250131	22:17:06	c3d79c58-9a1a-4dd5-ab54-2f00a7d80070	POST	undefined	/employees
+20250131	22:18:25	781ae8d5-13fd-4516-be7d-b9a3b51266b3	PUT	undefined	/employees
+20250131	22:19:04	0a89a412-5d86-4fb7-a9bf-70af702ebf79	DELETE	undefined	/employees
+20250131	22:19:30	9dcd581a-41b0-4b68-802b-548f5492eb75	GET	undefined	/employees/1
+20250131	22:58:24	bb13fb0a-f062-4669-9f34-6912df4f6ef0	POST	undefined	/register
+20250131	22:59:05	826bab35-f098-4bc7-ba91-421c4b2fbe7a	POST	undefined	/register
+20250201	12:37:37	52d81e21-a6e0-4fd1-bf82-41a4bc4d0ee2	POST	undefined	/auth
+20250201	12:38:46	b7fc481c-a027-49f2-8e30-7dbf9e63ca7b	POST	undefined	/auth
+20250201	12:39:03	2de84fdc-23dd-46d1-b6f7-dfbf8ecfb0b2	POST	undefined	/auth
+20250201	12:39:45	c2d465aa-c474-4ebc-8f6e-29053d36ebe4	POST	undefined	/register
+20250201	13:32:22	88417b2d-47ae-45b3-b155-8e10b83b684a	POST	undefined	/auth
+20250201	13:37:02	58200647-5df0-423e-b2b0-f14ccfecfaa7	POST	undefined	/auth
+20250201	14:03:06	18ddbc13-dbf7-4f84-a0d5-5bdc3fff0d3e	POST	undefined	/auth
+20250201	14:05:32	e5234d52-d665-4cae-a593-e00bca6ef164	GET	undefined	/refresh
+20250201	14:05:40	c772a00f-0f8d-4ab0-a040-39677b8d5a3d	GET	undefined	/refresh
+20250201	14:05:41	dadcd799-b8f1-413f-a46b-344be4e12d72	GET	undefined	/refresh
+20250201	14:05:42	f9f98d91-943c-4d9e-8e06-09e08d548e08	GET	undefined	/refresh
+20250201	14:34:04	8c1dbdc3-56f4-44e4-936b-04a873da02f9	POST	undefined	/auth
+20250201	14:34:34	5a71abd2-e62d-4bc3-83e7-e9a56f036152	GET	undefined	/logout
+20250201	14:35:02	a3ed13fb-c648-449b-9413-32e363b8fc05	GET	undefined	/refresh
+20250201	14:35:31	e5995b9f-997b-4686-8df4-08b262796676	GET	undefined	/refresh
+20250201	14:35:37	70959a35-d71f-497c-b8ee-e3a7fb250bcd	GET	undefined	/refresh
+20250201	16:06:50	003324bd-d92a-4c3f-86e2-4d1a9ee39d38	POST	undefined	/auth
+20250201	16:10:31	2ef0539e-3257-4e52-a968-cd5ccda10c64	GET	undefined	/auth
+20250201	16:10:50	1bbee11a-800d-417d-bccc-7eb5d14891c5	GET	undefined	/auth
+20250201	16:11:05	f6cb1ff0-6487-4a37-a780-1f8e87d320d5	POST	undefined	/auth
+20250201	16:11:58	f2f6548d-0786-474d-a73d-5bad2d1e647b	GET	undefined	/employees
+20250201	16:12:39	775f8779-8ac7-4831-9f51-e3e1416b1a2e	POST	undefined	/auth
+20250201	16:13:05	a976088e-c1d1-4690-97a3-33bfea0737ec	GET	undefined	/employees
+20250201	17:40:29	48cce6d0-aace-4d67-82a1-37d97f0a80e1	POST	undefined	/register
+20250201	17:41:15	e317dfbb-844b-4896-a1a0-29633dcdbade	POST	undefined	/register
+20250201	19:58:11	362a2c35-c52a-46f6-881a-e8bc9fd69e59	POST	undefined	/register
+20250201	19:58:20	01ea0572-0c60-4715-8862-4584a74a6487	POST	undefined	/register
+20250201	19:58:59	3f24a6d8-f757-4a75-b0a2-a955937d015b	POST	undefined	/auth
+20250201	20:01:34	2b94a0be-6d78-4b6b-91ae-c775ac556c18	POST	undefined	/auth
+20250201	20:01:59	ca84bd0e-16a7-460c-9c2d-36b343d3c53d	GET	undefined	/logout
+20250201	20:36:29	c12157f4-e934-431c-bc12-46c1eeab0afa	POST	undefined	/auth
